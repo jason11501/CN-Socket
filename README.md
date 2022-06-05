@@ -3,7 +3,7 @@
 
 ## Install environments
 **Công cụ (Tool):**<br>
-* PyCharm
+* Sublime Text
 * PyMySQL
 * Tkinter
 
