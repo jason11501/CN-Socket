@@ -9,3 +9,6 @@
 
 **Ngôn ngữ (Language):**<br>
 * Python
+
+# Tiến độ hoàn thiện hơn tại
+https://youtube.com/playlist?list=PLF5iDxYhcQyf19PKUm4vi9jDp5OByF5Wt&si=rWpAhGzg70qX-4tG
