@@ -1,6 +1,9 @@
 # Computer Network - Mạng máy tính
 # Ứng dụng Desktop bóng đá (soccer)
 # Tiến độ: 60% 
+
+## features
+login, signup, failed login case, existed account, save signed up account to txt file, query static data in database.
 ## Install environments
 **Công cụ (Tool):**<br>
 * Sublime Text
