@@ -1,5 +1,7 @@
 # Computer Network - Mạng máy tính
 # Ứng dụng Desktop bóng đá (soccer)
+socket
+
 # Tiến độ: 60% 
 
 ## features
@@ -9,6 +11,9 @@ login, signup, failed login case, existed account, save signed up account to txt
 * Sublime Text
 * PyMySQL
 * Tkinter
+
+**Library**<br>
+* tkinter
 
 **Ngôn ngữ (Language):**<br>
 * Python
